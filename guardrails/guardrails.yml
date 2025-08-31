@@ -1,0 +1,5 @@
+rules:
+  - Always reference both project-specific and global assets in handoff instructions.
+  - Prompt for handoff when major context changes.
+  - Never assume context outside referenced files.
+  - Confirm all references for transcript, code, and instructions.
