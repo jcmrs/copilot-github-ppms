@@ -1,15 +1,19 @@
-# Handoff Instruction for Project Start (31-08-2025)
+# System Handoff Instructions: Milestone Start 31-08-2025 21:02
 
 ## References
-- **Partial Transcript**: [Insert details of the partial transcript here]
-- **Protocol**: [Insert protocol details]
-- **Lessons Learned**: 
-  - Lesson about persistent memory: It is crucial to ensure that memory is managed effectively to avoid data loss during transitions.
-- **Guardrails**: [Insert guardrails information]
-- **Research**: [Insert relevant research findings]
-- **Backlog**: [Insert backlog details]
-- **Code Library**: [Insert code library references]
-- **Instruction Templates**: [Insert links to instruction templates]
+- Transcript: `transcripts/transcript-project-start-31-08-2025-21-02.md`
+- Protocol: `handoff/protocol.md`
+- Lesson: `lessons/lesson-transcript-persistence-31-08-2025-21-02.md`
+- Guardrails, research, backlog, code library, instruction templates: See corresponding folders.
 
-## Summary
-This document serves as a handoff instruction for the project starting on August 31, 2025. It covers all the essential references and guidelines necessary for a smooth transition and successful project initiation.
+## Instructions
+
+1. Review the transcript (note: only partial context is available, full restoration not possible).
+2. Study the lesson on persistent memory transcript requirements.
+3. Follow the protocol for system handoffs.
+4. Reference supporting materials (guardrails, research, templates, backlog) as needed.
+
+## Lessons Learned
+
+- Always capture complete verbatim transcripts for persistent system memory. Partial transcripts risk context loss.
+- Document protocol and milestones using agreed conventions for discoverability and clarity.
